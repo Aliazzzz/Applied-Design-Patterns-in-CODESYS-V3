@@ -1,1 +1,1 @@
-Pattern by Armando Rene Narvaez Contreras
+Pattern implemented by Armando Rene Narvaez Contreras
