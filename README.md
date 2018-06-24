@@ -7,4 +7,6 @@ Use them for selfstudy purposes. Kudo's go out to the original posters!
 
 
 
-And remember kids, allthough design patterns can ease your life significantly, the best solution is always the simplest solution no matter what fancy pattern.
+
+
+# And remember kids, allthough design patterns can ease your life significantly, the best solution is always the simplest solution no matter what fancy pattern!
