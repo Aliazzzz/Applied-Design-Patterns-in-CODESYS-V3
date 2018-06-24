@@ -1,7 +1,7 @@
 # Applied-Design-Patterns-in-CODESYS-V3
 
 I picked up these design-patterns from various sources all around the internet and decided to share them.
-Use them for selfstudy purposes. Kudo's go out to the original posters!
+Ideal for selfstudy purpose. Kudo's go out to the original posters!
 
 
 
