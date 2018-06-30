@@ -34,4 +34,4 @@ The drawback however is that ladder cannot compete with a higher abstraction lan
 
 Typical usecases for implementation in Ladder cover mostly Simple decisionmaking or I/O handling i.e. reading and writing binary and or analog in/outputs. 
 
-All patterns are implemented for academical purposes, however recommended IEC 61131-3 alternatives are mentioned where applicable.
+All patterns are implemented for academical and self study purpose. A recommended IEC 61131-3 alternative is mentioned where applicable.
