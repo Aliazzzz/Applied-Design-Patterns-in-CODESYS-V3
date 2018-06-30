@@ -12,11 +12,11 @@ This list of ladder logic programming patterns serves two purposes:
 
 * Second, since these are common patterns, you’ll start to find it easier to read other people’s ladder logic, and other experienced programmers will find it easier to follow your logic.
 
-        The Sealed in Coil pattern
-        The State Coil/Fault Coil pattern
-        The Start/Stop Circuit pattern
-        The Set/Reset pattern
-        The Flasher pattern
+        The Sealed in Coil pattern              
+        The State Coil/Fault Coil pattern               
+        The Start/Stop Circuit pattern                          
+        The Set/Reset pattern                           ( usage not recommended => use SR / RS from standard lib )
+        The Flasher pattern                             ( usage not recommended => use BLINK from util lib )
         The Debounce pattern
         The Input Map pattern
         The Step pattern
@@ -33,3 +33,5 @@ Ladder certainly has it's specific purposes, its simple and easy to pick up by p
 The drawback however is that ladder cannot compete with a higher abstraction language like ST. Even experienced programmers can encounter trouble in trying to understand the complexity of a patchwork in rungs. Wrong/incorrect usage of ladder will send your code down in a one way street of poor maintainability, poor readability and poor extendability. So, use with caution.
 
 Typical usecases for implementation in Ladder cover mostly Simple decisionmaking or I/O handling i.e. reading and writing binary and or analog in/outputs. 
+
+All patterns are implemented for academical purposes, however recommended IEC 61131-3 alternatives are mentioned where applicable.
