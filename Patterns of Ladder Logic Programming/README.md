@@ -15,8 +15,8 @@ This list of ladder logic programming patterns serves two purposes:
         The Sealed in Coil pattern              
         The State Coil/Fault Coil pattern               
         The Start/Stop Circuit pattern                          
-        The Set/Reset pattern                           ( usage not recommended => use SR / RS from standard lib )
-        The Flasher pattern                             ( usage not recommended => use BLINK from util lib )
+        The Set/Reset pattern                   ( usage not recommended => use SR / RS from standard lib )
+        The Flasher pattern                     ( usage not recommended => use BLINK from util lib )
         The Debounce pattern
         The Input Map pattern
         The Step pattern
