@@ -12,16 +12,14 @@ This list of ladder logic programming patterns serves two purposes:
 
 * Second, since these are common patterns, you’ll start to find it easier to read other people’s ladder logic, and other experienced programmers will find it easier to follow your logic.
 
-
-    The Sealed in Coil pattern
-    The State Coil/Fault Coil pattern
-    The Start/Stop Circuit pattern
-    The Set/Reset pattern
-    The Flasher pattern
-    The Debounce pattern
-    The Input Map pattern
-    The Step pattern
-    The Mission pattern
-    The Five Rung pattern
-    The Mode pattern
-
+        The Sealed in Coil pattern
+        The State Coil/Fault Coil pattern
+        The Start/Stop Circuit pattern
+        The Set/Reset pattern
+        The Flasher pattern
+        The Debounce pattern
+        The Input Map pattern
+        The Step pattern
+        The Mission pattern
+        The Five Rung pattern
+        The Mode pattern
