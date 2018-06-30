@@ -10,6 +10,9 @@ The drawback however is that ladder cannot compete with a higher abstraction lan
 Typical usecases for implementation in Ladder cover mostly Simple decisionmaking or I/O handling i.e. reading and writing binary and or analog in/outputs. 
 
 
+
+
+
 Original Poster: Scott Whitlock
 
 http://www.contactandcoil.com/patterns-of-ladder-logic-programming/
