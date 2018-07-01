@@ -15,10 +15,10 @@ This list of ladder logic programming patterns serves two purposes:
         The Sealed in Coil pattern              
         The State Coil/Fault Coil pattern               
         The Start/Stop Circuit pattern                          
-        The Set/Reset pattern                   Recommend use of SR / RS from standard.library
-        The Flasher pattern                     Recommend use of BLINK from util.library, see;
+        The Set/Reset pattern                   Recommend use of SR / RS from standard.library**
+        The Flasher pattern                     Recommend use of BLINK from util.library**
         The Debounce pattern
-        The Input Map pattern                   Obselete due to CODESYS V3 IO Mapping features
+        The Input Map pattern                   Obselete due CODESYS V3 IO Mapping features
         The Step pattern
         The Mission pattern
         The Five Rung pattern
@@ -34,4 +34,5 @@ The drawback however is that ladder cannot compete with a higher abstraction lan
 
 Typical usecases for implementation in Ladder cover mostly Simple decisionmaking or I/O handling i.e. reading and writing binary and or analog in/outputs. 
 
-All patterns are implemented for academical and self study purpose. A recommended IEC 61131-3 alternative is mentioned where applicable.
+All patterns are implemented for academical and self study purpose. 
+A recommended IEC 61131-3 alternative is mentioned where applicable **.
