@@ -36,4 +36,4 @@ Typical usecases for implementation in Ladder cover mostly Simple decisionmaking
 
 All patterns are implemented for academical and self study purpose.
 
-* *Recommended IEC 61131-3 alternative
+'* Recommended IEC 61131-3 alternative
