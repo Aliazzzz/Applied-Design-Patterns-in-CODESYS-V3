@@ -15,15 +15,19 @@ This list of ladder logic programming patterns serves two purposes:
         The Sealed in Coil pattern              
         The State Coil/Fault Coil pattern               
         The Start/Stop Circuit pattern                          
-        The Set/Reset pattern                   ( usage not recommended => use SR / RS from standard lib )
-        The Flasher pattern                     ( usage not recommended => use BLINK from util lib )
+        The Set/Reset pattern                   Recommend use of SR / RS from standard.library
+https://help.codesys.com/webapp/f_bistable_function_blocks;product=codesys;version=3.5.11.0
+        
+        The Flasher pattern                     Recommend use of BLINK from util.library
+https://help.codesys.com/webapp/I0ahjqMAL_BOyjoTDH9A5lxW8Mk%2FBLINK;product=Util;version=3.5.9.0
+        
         The Debounce pattern
-        The Input Map pattern                   ( obselete due to CODESYS V3 features )
+        The Input Map pattern                   Obselete due to CODESYS V3 IO Mapping features
         The Step pattern
         The Mission pattern
         The Five Rung pattern
         The Mode pattern
-     
+
 
 # Remember kids!
 Never write complex software solutions in Ladder!
