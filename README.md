@@ -1,7 +1,7 @@
 # Applied-Design-Patterns-in-CODESYS-V3
 
-These design-patterns come orm from various sources all around the internet.
-I decided to rework/translate them into Codesys V3. 
+These design-patterns come from various sources all around the internet.
+I decided to study and rework / translate them into Codesys V3. 
 
 The patterns are ideally suited for selfstudy purpose. 
 
