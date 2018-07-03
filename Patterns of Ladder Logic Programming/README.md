@@ -26,8 +26,6 @@ This list of ladder logic programming patterns serves two purposes:
 
 
 
-After some good feedback of the original poster, a revision to the introduction text has been made. 
-
 # LD is Simple, elegant and easy to pick up!
 IMHO, Ladder certainly has it's specific purpose! 
 Its simple, elegant and easy to pick up by personell with less PLC experience, so it's always a good start!
@@ -43,4 +41,4 @@ These kind of “problems” can be programmed in other, more suitable languages
 Be aware that wrong/incorrect usage of LD will send your code down in a one way street of poor maintainability, poor readability and poor extendability. Try to compartmentalization your specific code as much as you can in smaller single task oriented solutions. 
 
 All patterns are implemented for academical and self study purpose. 
-Recommended IEC 61131-3 alternatives may apply and should be adhered.
+Recommended IEC 61131-3 alternatives may apply.
