@@ -18,7 +18,7 @@ This list of ladder logic programming patterns serves two purposes:
         The Set/Reset pattern                   * Recommend use of SR / RS from standard.library instead
         The Flasher pattern                     * Recommend use of BLINK from util.library instead
         The Debounce pattern
-        The Input Map pattern                   * Pattern obselete due CODESYS V3 IO Mapping features
+        The Input Map pattern                   * Pattern obselete in CODESYS V3 due to IO Mapping features
         The Step pattern
         The Mission pattern
         The Five Rung pattern
