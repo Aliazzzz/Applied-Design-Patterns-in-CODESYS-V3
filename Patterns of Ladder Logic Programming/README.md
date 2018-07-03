@@ -25,6 +25,9 @@ This list of ladder logic programming patterns serves two purposes:
         The Mode pattern
 
 
+
+After some good feedback of the original poster, a revision to the introduction text has been made. 
+
 # LD is Simple, elegant and easy to pick up!
 IMHO, Ladder certainly has it's specific purpose! 
 Its simple, elegant and easy to pick up by personell with less PLC experience, so it's always a good start!
