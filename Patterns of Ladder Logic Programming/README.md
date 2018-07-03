@@ -38,7 +38,7 @@ Looping and maths (or string) operations.
 These kind of “problems” can be programmed in other, more suitable languages
 
 # In general
-Be aware that wrong/incorrect usage of LD will send your code down in a one way street of poor maintainability, poor readability and poor extendability. Try to compartmentalization your specific code as much as you can in smaller single task oriented solutions. 
+Be aware that wrong/incorrect usage of LD will send your code down in a one way street of poor maintainability, poor readability and poor extendability. Try to compartmentalize your code as much as you can in small, single task oriented solutions. 
 
 All patterns are implemented for academical and self study purpose. 
 Recommended IEC 61131-3 alternatives may apply.
