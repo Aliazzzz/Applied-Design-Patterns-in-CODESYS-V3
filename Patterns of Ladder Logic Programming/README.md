@@ -1,4 +1,4 @@
-# The 'Patterns of Ladder Logic' in CODESYS 3
+The 'Patterns of Ladder Logic' translated to CODESYS 3 LD Function Blocks
 
 Original Poster: Scott Whitlock
 
