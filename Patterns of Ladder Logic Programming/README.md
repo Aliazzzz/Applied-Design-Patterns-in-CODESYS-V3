@@ -1,4 +1,4 @@
-The 'Patterns of Ladder Logic' in CODESYS 3
+# The 'Patterns of Ladder Logic' in CODESYS 3
 
 Original Poster: Scott Whitlock
 
@@ -25,14 +25,14 @@ This list of ladder logic programming patterns serves two purposes:
         The Mode pattern
 
 
-# simple, elegant and easy to pick up 
+# LD is Simple, elegant and easy to pick up!
 IMHO, Ladder certainly has it's specific purpose! 
 Its simple, elegant and easy to pick up by personell with less PLC experience, so it's always a good start!
 
-# Do's
+# LD Do's
 Higher decisionmaking and or I/O handling i.e. reading and writing binary and or analog in/outputs.
 
-# Don'ts
+# LD Don'ts
 Looping and maths (or string) operations. 
 These kind of “problems” can be programmed in other, more suitable languages
 
