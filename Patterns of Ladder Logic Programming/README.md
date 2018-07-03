@@ -25,13 +25,19 @@ This list of ladder logic programming patterns serves two purposes:
         The Mode pattern
 
 
-# Remember kids!
-Never write complex software solutions in Ladder!
+# simple, elegant and easy to pick up 
+IMHO, Ladder certainly has it's specific purpose! 
+Its simple, elegant and easy to pick up by personell with less PLC experience, so it's always a good start!
 
-IMHO, Ladder certainly has it's specific purposes, its simple and easy to pick up by personell with less PLC experience, so its a good start.
+# Do's
+Higher decisionmaking and or I/O handling i.e. reading and writing binary and or analog in/outputs.
 
-The drawback however is that ladder cannot compete with a higher abstraction language like ST. Even experienced programmers can encounter trouble in trying to understand the complexity of a patchwork in rungs. Wrong/incorrect usage of ladder will send your code down in a one way street of poor maintainability, poor readability and poor extendability. So, use with caution.
+# Don'ts
+Looping and maths (or string) operations. 
+These kind of “problems” can be programmed in other, more suitable languages
 
-Typical usecases for implementation in Ladder cover mostly Simple decisionmaking or I/O handling i.e. reading and writing binary and or analog in/outputs. 
+# In general
+Be aware that wrong/incorrect usage of LD will send your code down in a one way street of poor maintainability, poor readability and poor extendability. Try to compartmentalization your specific code as much as you can in smaller single task oriented solutions. 
 
-All patterns are implemented for academical and self study purpose. Recommended IEC 61131-3 alternatives may apply and should be adhered.
+All patterns are implemented for academical and self study purpose. 
+Recommended IEC 61131-3 alternatives may apply and should be adhered.
