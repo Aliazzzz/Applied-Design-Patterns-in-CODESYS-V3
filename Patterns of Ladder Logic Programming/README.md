@@ -34,17 +34,13 @@ Higher decisionmaking (Boolean operations) or I/O handling i.e. reading and writ
 
 # LD Don'ts!
 Looping (FOR TO DO, WHILE) math / calculations or string operations. 
-These kind of “problems” could be programmed more a suitable language: Structured Text (ST)*.
+These kind of “problems” could be programmed more a suitable language: Structured Text (ST).
 
 # In general
 Be aware that wrong/incorrect usage of LD will send your code down in a one way street of poor maintainability, poor readability and poor extendability. 
 Try to compartmentalize your solutions as much as you can in small, single task oriented solutions. I.e. write your code in functions and/or function blocks for every piece of code that you need more then once (re-useabilty matters).
+Neither CFC or FBD languages are capable of programming FOR TO DO or WHILE decision loops, they are not suited for that. However, math and string operations can be done in CFC or FBD. This said, solving math and string operations and doing loops in ST takes almost effort. In general it's easier to tackle all these problems in ST. Ultimatly, if you wish to solve your problems in another language like CFC, LD, FBD, IL you are free to do so. Just be aware of the language specific limitations.
 
 
 All patterns are implemented for academical and self study purpose. 
 Recommended usage of IEC 61131-3 alternatives apply for specific patterns.
-
-
-
-* 
-Neither CFC or FBD languages are capable of programming FOR TO DO or WHILE decision loops, so they are not well suited for that. However, math and string operations can be done in CFC or FBD, but solving them in ST takes almost no effort at all. In general it's easier to tackle all these problems in ST. Ultimatly, if you wish to solve your problems in these languages (CFC, LD, FBD, IL) you are free to do so, just beware of the language specific limitations!
