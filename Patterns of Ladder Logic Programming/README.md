@@ -26,7 +26,7 @@ This list of ladder logic programming patterns serves two purposes:
 
 
 # Simple, elegant and easy to pick up!
-IMHO, Ladder certainly has it's specific purpose. Its simple, elegant and easy to pick up by personell with less PLC experience, so it's always a good startingpoint. Just do not try to use LD language for tasks it isn't inteded for!
+IMHO, Ladder certainly has it's specific purpose. Its simple, elegant and easy to pick up by personell with less PLC experience, so it's always a good startingpoint. Just do not try to use LD language for tasks it isn't intended for.
 
 # LD Do's!
 Higher decisionmaking (Boolean operations) or I/O handling i.e. reading and writing binary and or analog in/outputs.
