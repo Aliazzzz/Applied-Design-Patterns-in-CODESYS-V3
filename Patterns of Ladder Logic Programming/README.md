@@ -26,17 +26,17 @@ This list of ladder logic programming patterns serves two purposes:
 
 
 # Simple, elegant and easy to pick up!
-IMHO, Ladder certainly has it's specific purpose.
-Its simple, elegant and easy to pick up by personell with less PLC experience, so it's always a good startingpoint.
+IMHO, Ladder certainly has it's specific purpose. Its simple, elegant and easy to pick up by personell with less PLC experience, so it's always a good startingpoint. Just do not try to use LD language for tasks it isn't inteded for!
 
 # LD Do's
-Higher decisionmaking and or I/O handling i.e. reading and writing binary and or analog in/outputs.
+Higher decisionmaking or I/O handling i.e. reading and writing binary and or analog in/outputs.
 
 # LD Don'ts
-Looping and maths (or string) operations. These kind of “problems” can be programmed more suitable languages like Structured Text (ST).
+Looping (FOR TO DO, WHILE) math / calculations or string operations. 
+These kind of “problems” should be programmed more suitable language e.g Structured Text (ST).
 
 # In general
-Be aware that wrong/incorrect usage of LD will send your code down in a one way street of poor maintainability, poor readability and poor extendability. Try to compartmentalize your solutions as much as you can in small, single task oriented solutions. I.e. write your code in functions /function blocks for every piece of code that you need more then once (re-useabilty matters).
+Be aware that wrong/incorrect usage of LD will send your code down in a one way street of poor maintainability, poor readability and poor extendability. Try to compartmentalize your solutions as much as you can in small, single task oriented solutions. I.e. write your code in functions and/or function blocks for every piece of code that you need more then once (re-useabilty matters).
 
 
 All patterns are implemented for academical and self study purpose. 
