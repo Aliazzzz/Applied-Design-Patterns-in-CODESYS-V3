@@ -38,9 +38,11 @@ These kind of “problems” could be programmed more a suitable language: Struc
 
 # In general
 Be aware that wrong/incorrect usage of LD will send your code down in a one way street of poor maintainability, poor readability and poor extendability. 
+
 Try to compartmentalize your solutions as much as you can in small, single task oriented solutions. I.e. write your code in functions and/or function blocks for every piece of code that you need more then once (re-useabilty matters).
-Neither CFC or FBD languages are capable of programming FOR TO DO or WHILE decision loops, they are not suited for that. However, math and string operations can be done in CFC or FBD. This said, solving math and string operations and doing loops in ST takes almost effort. In general it's easier to tackle all these problems in ST. Ultimatly, if you wish to solve your problems in another language like CFC, LD, FBD, IL you are free to do so. Just be aware of the language specific limitations.
+
+Neither CFC or FBD languages are capable of programming FOR TO DO or WHILE decision loops well. However, math and string operations can be programmed in CFC or FBD. This said, solving math and string operations and doing loops in ST takes (almost) no effort. So, in general it's easier to tackle all problems in ST, but takes some programming experience. Ultimatly, if you wish to solve your problems in another language like CFC, LD, FBD, IL you are free to do so. Just be aware of the language specific limitations.
 
 
 All patterns are implemented for academical and self study purpose. 
-Recommended usage of IEC 61131-3 alternatives apply for specific patterns.
+Recommended usage of IEC 61131-3 alternatives apply for specific design-patterns.
