@@ -26,14 +26,15 @@ This list of ladder logic programming patterns serves two purposes:
 
 
 # Simple, elegant and easy to pick up!
-IMHO, Ladder certainly has it's specific purpose. Its simple, elegant and easy to pick up by personell with less PLC experience, so it's always a good startingpoint. Just do not try to use LD language for tasks it isn't intended for.
+IMHO, Ladder (LD) certainly has it's specific purpose. It's visual, simple, elegant and easy to pick up by personell with less PLC experience. It is always a good startingpoint. 
+Just do not try to use LD language for tasks it isn't intended for. So, over time, when programming experience and confidence grows, the programmer will inevitably outgrow LD and is able to see LD's limitations. This does not mean that LD itself is limited as by nature LD it is visual, simple and elegant. Thus the circle is complete. 
 
 # LD Do's!
 Higher decisionmaking (Boolean operations) or I/O handling i.e. reading and writing binary and or analog in/outputs.
 
 # LD Don'ts!
 Looping (FOR TO DO, WHILE) math / calculations or string operations. 
-These kind of “problems” should be programmed more suitable language e.g Structured Text (ST).
+These kind of “problems” could be programmed more a suitable language: Structured Text (ST)*.
 
 # In general
 Be aware that wrong/incorrect usage of LD will send your code down in a one way street of poor maintainability, poor readability and poor extendability. 
@@ -42,3 +43,7 @@ Try to compartmentalize your solutions as much as you can in small, single task 
 
 All patterns are implemented for academical and self study purpose. 
 Recommended usage of IEC 61131-3 alternatives apply for specific patterns.
+
+
+
+* Neither CFC or FBD languages are capable of programming FOR TO DO or WHILE decision loops, so they are not well suited for that. However, math and string operations can be done in CFC or FBD, but solving them in ST takes almost no effort at all. In general it's easier to tackle all these problems in ST. Ultimatly, if you wish to solve your problems in these languages (CFC, LD, FBD, IL) you are free to do so, just beware of the language specific limitations!
