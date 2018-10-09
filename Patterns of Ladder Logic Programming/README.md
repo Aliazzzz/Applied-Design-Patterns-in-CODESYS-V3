@@ -46,4 +46,5 @@ Recommended usage of IEC 61131-3 alternatives apply for specific patterns.
 
 
 
-* Neither CFC or FBD languages are capable of programming FOR TO DO or WHILE decision loops, so they are not well suited for that. However, math and string operations can be done in CFC or FBD, but solving them in ST takes almost no effort at all. In general it's easier to tackle all these problems in ST. Ultimatly, if you wish to solve your problems in these languages (CFC, LD, FBD, IL) you are free to do so, just beware of the language specific limitations!
+* 
+Neither CFC or FBD languages are capable of programming FOR TO DO or WHILE decision loops, so they are not well suited for that. However, math and string operations can be done in CFC or FBD, but solving them in ST takes almost no effort at all. In general it's easier to tackle all these problems in ST. Ultimatly, if you wish to solve your problems in these languages (CFC, LD, FBD, IL) you are free to do so, just beware of the language specific limitations!
