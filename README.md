@@ -9,5 +9,4 @@ Kudo's go out to the original posters!
 
 
 # Remember!
-
-Allthough design patterns can ease your life significantly, the best solution is always the simplest solution, no matter what fancy pattern you throw at it!
+Allthough design patterns can ease your life significantly, the best solution is always the simplest solution (and/ or procedural), no matter what fancy pattern you throw at it!
