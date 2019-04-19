@@ -28,7 +28,7 @@ This list of ladder logic programming patterns serves two purposes:
 # Simple, elegant and easy to pick up!
 IMHO, Ladder (LD) certainly has it's specific purpose. It's visual, simple, elegant and easy to pick up by personell with less PLC experience. It is always a good startingpoint. Just do not try to use LD language for tasks it isn't intended for. 
 
-Over time, when programming experience and confidence grows, the programmer will inevitably outgrow LD and is able to see LD's limitations. This does not mean that LD itself is limited as by nature LD is visual, simple and elegant. Thus the circle is complete. 
+LD, Like all programming languages is meant for 1 thing. Humans to read and understand it. The PLC could care less. Over time, when programming experience and confidence grows, the programmer will inevitably outgrow LD and is able to see LD's limitations. This does not mean that LD itself is limited as by nature LD is visual, simple and elegant. Thus the circle is complete. 
 
 # LD Do's!
 Higher decisionmaking (Boolean operations) or I/O handling i.e. reading and writing binary and or analog in/outputs.
@@ -42,7 +42,7 @@ Be aware that wrong/incorrect usage of LD will send your code down in a one way 
 
 Try to compartmentalize your solutions as much as you can in small, single task oriented solutions. I.e. write your code in functions and/or function blocks for every piece of code that you need more then once (re-useabilty matters).
 
-Neither CFC or FBD languages are capable of programming FOR TO DO or WHILE decision loops well. However, math and string operations can be programmed in CFC or FBD. This said, solving math and string operations and doing loops in ST takes (almost) no effort. So, in general it's easier to tackle all problems in ST, but takes some programming experience. Ultimatly, if you wish to solve your problems in another language like CFC, LD, FBD, IL you are free to do so. Just be aware of the language specific limitations.
+Neither CFC or FBD languages are capable of programming FOR TO DO or WHILE decision loops well. However, math and string operations can be programmed in CFC or FBD. This said, solving math and string operations and doing loops in ST takes (almost) no effort. So, in general it's easier to tackle all problems in ST, but takes some programming experience. Ultimatly, if you wish to solve your problems in another language like CFC, LD, FBD, IL you are free to do so. Just be aware of the language specific limitations. .
 
 
 All patterns are implemented for academical and self study purpose. 
