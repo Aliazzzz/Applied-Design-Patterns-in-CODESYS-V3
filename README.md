@@ -5,7 +5,7 @@ I decided to study and rework / translate them into Codesys V3.
 
 The patterns are ideally suited for selfstudy purpose. 
 
-Kudo's go out to the original posters!
+Kudos go out to the original posters!
 
 
 # Remember!
