@@ -48,5 +48,3 @@ Try to compartmentalize your solutions as much as you can in small, single task 
 Neither CFC or FBD languages are capable of programming FOR TO DO or WHILE decision loops well. However, math and string operations can be programmed in CFC or FBD. This said, solving math and string operations and doing loops in ST takes (almost) no effort. So, in general it's easier to tackle all problems in ST, but takes some programming experience. Ultimatly, if you wish to solve your problems in another language like CFC, LD, FBD, IL you are free to do so! Just be aware of the language specific limitations.
 
 All patterns are implemented for academical and self study purpose. 
-
-*Recommended usage of IEC 61131-3 alternatives apply for specific design-patterns.
