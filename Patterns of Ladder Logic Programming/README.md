@@ -35,7 +35,7 @@ Higher decisionmaking (Boolean operations) or I/O handling i.e. reading and writ
 
 # LD Don'ts!
 Looping (FOR TO DO, WHILE) math / calculations or string operations. 
-These kind of “problems” could be programmed in a more suitable language: Structured Text (ST).
+These type of “problems” should be programmed in a more suitable language: Structured Text (ST).
 
 # In general
 Be aware that wrong/incorrect usage of LD will send your code down in a one way street of poor maintainability, poor readability and poor extendability. 
