@@ -23,6 +23,9 @@ This list of ladder logic programming patterns serves two purposes:
         The Mission pattern
         The Five Rung pattern
         The Mode pattern
+        
+        
+        *Recommended usage of IEC 61131-3 alternatives apply for these specific design-patterns.
 
 
 # Simple, elegant and easy to pick up!
